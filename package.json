@@ -1,0 +1,21 @@
+{
+  "name": "peterjcwu.github.io",
+  "version": "1.0.0",
+  "description": "---\r title: \"About\"\r permalink: \"/about/\"\r layout: page\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterjcwu/peterjcwu.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/peterjcwu/peterjcwu.github.io/issues"
+  },
+  "homepage": "https://github.com/peterjcwu/peterjcwu.github.io#readme"
+}
